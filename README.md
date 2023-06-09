@@ -24,10 +24,7 @@ Getting started
 -----------------
 To get started running the simulation for this code, you might wanna clone or download the repository first just as shown below;
 
-```bash
-$-> git clone https://github.com/Kalebu/Monty-Hall-Problem-Simulation-in-Python
 
-```
 
 Open terminal in a project directory
 ------------------------------------
@@ -43,6 +40,5 @@ Do some simulations
 -------------------------
 Once you run the application, a very simple gui similar to what shown below will pop up with an entry box, write in it no of sample to be simulated and then press enter and then program will evaluate total wins for case of same choice or switching 
 
-![](app.png)
 
 
