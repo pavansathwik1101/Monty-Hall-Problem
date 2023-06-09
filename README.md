@@ -46,6 +46,3 @@ Once you run the application, a very simple gui similar to what shown below will
 ![](app.png)
 
 
-Credits
------------
-All the credits to [kalebu](github.com/kalebu) 
