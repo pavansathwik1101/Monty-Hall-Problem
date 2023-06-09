@@ -1,8 +1,8 @@
 <samp>
   
-# [Monty-Hall-Problem-Simulation-in-Python](https://kalebujordan.dev/simulate-monty-hall-problem-using-python/)
+# [Monty-Hall-Problem-Simulation-in-Python]
 
-The repository  acts as the source code for the [Monty hall problem simulation](https://kalebujordan.dev/simulate-monty-hall-problem-using-python/)
+
 
 
 WTH is Monty Hall Problem ?
