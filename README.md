@@ -45,13 +45,6 @@ Once you run the application, a very simple gui similar to what shown below will
 
 ![](app.png)
 
-Give it a star 
---------------
-Did you find this information useful, then give it a star 
-  
-References 
--------------
-  1.https://www.mathwarehouse.com/monty-hall-simulation-online/ 
 
 Credits
 -----------
